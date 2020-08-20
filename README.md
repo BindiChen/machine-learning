@@ -8,6 +8,7 @@ Article | Notebook / source code
 [7 setups you should include at the beginning of a data science project](https://medium.com/@bindiatwork/7-setups-you-should-include-at-the-beginning-of-a-data-science-project-8232ab10a1ec) | [notebook](data-analysis/004-7-setups-for-a-data-science-project/7-setups.ipynb)
 [6 Pandas Tricks you should know to speed up your data analysis](https://towardsdatascience.com/6-pandas-tricks-you-should-know-to-speed-up-your-data-analysis-d3dec7c29e5) | [notebook](data-analysis/005-6-pandas-tricks/6-pandas-tricks.ipynb)
 [Using Pandas method chaining to improve code readability](https://medium.com/@bindiatwork/using-pandas-method-chaining-to-improve-code-readability-d8517c5626ac) | [notebook](data-analysis/007-method-chaining/method-chaining.ipynb)
+[4 tricks you should know to parse date columns with Pandas read_csv()](https://towardsdatascience.com/4-tricks-you-should-know-to-parse-date-columns-with-pandas-read-csv-27355bb2ad0e) | [notebook](data-analysis/012-parse-date-with-read_csv/parse-date-column-with-read_csv.ipynb)
 
 ### TensorFlow in practice
 Article | Notebook / source code
