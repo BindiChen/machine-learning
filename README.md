@@ -1,19 +1,45 @@
 # Machine Learning
 
-### Data Analysis
+## General
+Article | Notebook / source code
+--- | --- 
+[Create Virtual Environment using “virtualenv” and add it to Jupyter Notebook](https://towardsdatascience.com/create-virtual-environment-using-virtualenv-and-add-it-to-jupyter-notebook-6e1bf4e03415) | N/A
+[Create Virtual Environment using “conda” and add it to Jupyter Notebook](https://medium.com/analytics-vidhya/create-virtual-environment-using-conda-and-add-it-to-jupyter-notebook-d319a81dfd1) | N/A
+
+
+## Data Analysis
+
+### Tutorials
 Article | Notebook / source code
 --- | --- 
 [Using Pandas pipe function to improve code readability](https://towardsdatascience.com/using-pandas-pipe-function-to-improve-code-readability-96d66abfaf8) | [notebook](data-analysis/001-pandad-pipe-function/pandas-pipe-to-improve-code-readability.ipynb)
+[Using Pandas method chaining to improve code readability](https://medium.com/@bindiatwork/using-pandas-method-chaining-to-improve-code-readability-d8517c5626ac) | [notebook](data-analysis/007-method-chaining/method-chaining.ipynb)
 [What is One-Hot Encoding and how to use Pandas get_dummies function](https://towardsdatascience.com/what-is-one-hot-encoding-and-how-to-use-pandas-get-dummies-function-922eb9bd4970) | [notebook](data-analysis/002-one-hot-encoding/one-hot-encoding.ipynb)
 [7 setups you should include at the beginning of a data science project](https://medium.com/@bindiatwork/7-setups-you-should-include-at-the-beginning-of-a-data-science-project-8232ab10a1ec) | [notebook](data-analysis/004-7-setups-for-a-data-science-project/7-setups.ipynb)
 [6 Pandas Tricks you should know to speed up your data analysis](https://towardsdatascience.com/6-pandas-tricks-you-should-know-to-speed-up-your-data-analysis-d3dec7c29e5) | [notebook](data-analysis/005-6-pandas-tricks/6-pandas-tricks.ipynb)
-[Using Pandas method chaining to improve code readability](https://medium.com/@bindiatwork/using-pandas-method-chaining-to-improve-code-readability-d8517c5626ac) | [notebook](data-analysis/007-method-chaining/method-chaining.ipynb)
 [4 tricks you should know to parse date columns with Pandas read_csv()](https://towardsdatascience.com/4-tricks-you-should-know-to-parse-date-columns-with-pandas-read-csv-27355bb2ad0e) | [notebook](data-analysis/012-parse-date-with-read_csv/parse-date-column-with-read_csv.ipynb)
 [Pandas read_csv() tricks you should know](https://medium.com/@bindiatwork/all-the-pandas-read-csv-you-should-know-to-speed-up-your-data-analysis-1e16fe1039f3) | [notebook](data-analysis/006-pandas-read_csv/read_csv-tricks.ipynb)
 [Working with datetime in Pandas DataFrame](https://towardsdatascience.com/working-with-datetime-in-pandas-dataframe-663f7af6c587) | [notebook](data-analysis/008-pandas-datetime/pandas-datetime.ipynb)
 [When to use Pandas transform() function](https://medium.com/@bindiatwork/when-to-use-pandas-transform-function-df8861aa0dcf) | [notebook](data-analysis/013-pandas-transform/pandas-transform.ipynb)
+[Introduction to Pandas apply, applymap and map](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff) | TBA soon
+[Working with missing values in Pandas](https://towardsdatascience.com/working-with-missing-values-in-pandas-5da45d16e74) | TBA soon
+[Pandas Equivalents of various SQL queries](https://towardsdatascience.com/introduction-to-pandas-equivalents-of-various-sql-queries-448fb57dd9b9) | TBA soon
 
-### TensorFlow in practice
+### Applied Data Analysis and EDA
+Article | Notebook / source code
+--- | --- 
+[COVID-19 data processing with Pandas DataFrame](https://towardsdatascience.com/covid-19-data-processing-58aaa3663f6) | TBA soon
+
+
+
+## Data Visualization
+Article | Notebook / source code
+--- | --- 
+[Python Interactive Data Visualization with Altair](https://towardsdatascience.com/python-interactive-data-visualization-with-altair-b4c4664308f8) | [Gist](https://gist.github.com/BindiChen/0dea2e7fa189f8ff1397180f3b764cc7#file-altair-interactive-selection-chart-py)
+[Interactive Data Visualization for exploring Coronavirus Spreads](https://towardsdatascience.com/interactive-data-visualization-for-exploring-coronavirus-spreads-f33cabc64043) | [Gist](https://gist.github.com/BindiChen/de39182e050962c0b627d5146e3bce09#file-altair-data-visualization-py)
+
+
+## TensorFlow in practice
 Article | Notebook / source code
 --- | --- 
 [The Google's 7 steps of Machine Learing in Practice](https://towardsdatascience.com/the-googles-7-steps-of-machine-learning-in-practice-a-tensorflow-example-for-structured-data-96ccbb707d77) | [notebook](/tensorflow2/001-googles-7-steps-of-machine-learning-in-practice/001-googles-7-steps-of-machine-learning-in-practice.ipynb)
