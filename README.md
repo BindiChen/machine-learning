@@ -21,7 +21,8 @@ Article | Notebook / source code
 [Pandas read_csv() tricks you should know](https://medium.com/@bindiatwork/all-the-pandas-read-csv-you-should-know-to-speed-up-your-data-analysis-1e16fe1039f3) | [notebook](data-analysis/006-pandas-read_csv/read_csv-tricks.ipynb)
 [Working with datetime in Pandas DataFrame](https://towardsdatascience.com/working-with-datetime-in-pandas-dataframe-663f7af6c587) | [notebook](data-analysis/008-pandas-datetime/pandas-datetime.ipynb)
 [When to use Pandas transform() function](https://medium.com/@bindiatwork/when-to-use-pandas-transform-function-df8861aa0dcf) | [notebook](data-analysis/013-pandas-transform/pandas-transform.ipynb)
-[Introduction to Pandas apply, applymap and map](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff) | TBA soon
+[Difference between apply() and transform() in Pandas](https://medium.com/@bindiatwork/difference-between-apply-and-transform-in-pandas-242e5cf32705) | [notebook](data-analysis/014-pandas-apply-vs-transform/pandas-apply-vs-transform.ipynb)
+[Introduction to Pandas apply(), applymap(), and map()](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff) | TBA soon
 [Working with missing values in Pandas](https://towardsdatascience.com/working-with-missing-values-in-pandas-5da45d16e74) | TBA soon
 [Pandas Equivalents of various SQL queries](https://towardsdatascience.com/introduction-to-pandas-equivalents-of-various-sql-queries-448fb57dd9b9) | TBA soon
 
