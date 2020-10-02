@@ -48,6 +48,7 @@ Article | Notebook / source code
 [Model Regularization in practice](https://towardsdatascience.com/machine-learning-model-regularization-in-practice-an-example-with-keras-and-tensorflow-2-0-52a96746123e) | [notebook](tensorflow2/003-model-regularization/model-regularization.ipynb)
 [Batch Normalization in practice](https://medium.com/@bindiatwork/batch-normalization-in-practice-an-example-with-keras-and-tensorflow-2-0-b1ec28bde96f) | [notebook](tensorflow2/004-batch-norm/batch-normalization.ipynb)
 [Early Stopping in practice](https://medium.com/@bindiatwork/a-practical-introduction-to-early-stopping-in-machine-learning-550ac88bc8fd) | [notebook](tensorflow2/005-early-stopping/early-stopping.ipynb)
+[Learning Rate schedules in Practice](https://medium.com/@bindiatwork/learning-rate-schedule-in-practice-an-example-with-keras-and-tensorflow-2-0-2f48b2888a0c) | [notebook](tensorflow2/006-learning-rate-schedules/learning-rate-schedules.ipynb)
 
 ### Scikit-Learn in practice
 
