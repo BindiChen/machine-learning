@@ -25,6 +25,7 @@ Article | Notebook / source code
 [Introduction to Pandas apply(), applymap(), and map()](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff) | TBA soon
 [Working with missing values in Pandas](https://towardsdatascience.com/working-with-missing-values-in-pandas-5da45d16e74) | TBA soon
 [Pandas Equivalents of various SQL queries](https://towardsdatascience.com/introduction-to-pandas-equivalents-of-various-sql-queries-448fb57dd9b9) | TBA soon
+[A Practical Introduction to Pandas pivot_table()](https://medium.com/@bindiatwork/a-practical-introduction-to-pandas-pivot-table-function-3e1002dcd4eb) | [notebook](data-analysis/003-pandas-pivot-table/003-pandas-pivot-table.ipynb)
 
 ### Applied Data Analysis and EDA
 Article | Notebook / source code
