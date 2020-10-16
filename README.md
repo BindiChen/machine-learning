@@ -26,6 +26,7 @@ Article | Notebook / source code
 [Working with missing values in Pandas](https://towardsdatascience.com/working-with-missing-values-in-pandas-5da45d16e74) | TBA soon
 [Pandas Equivalents of various SQL queries](https://towardsdatascience.com/introduction-to-pandas-equivalents-of-various-sql-queries-448fb57dd9b9) | TBA soon
 [A Practical Introduction to Pandas pivot_table()](https://medium.com/@bindiatwork/a-practical-introduction-to-pandas-pivot-table-function-3e1002dcd4eb) | [notebook](data-analysis/003-pandas-pivot-table/003-pandas-pivot-table.ipynb)
+[Creating conditional columns on Pandas with Numpy select() and where() methods](https://bindichen.medium.com/creating-conditional-columns-on-pandas-with-numpy-select-and-where-methods-8ee6e2dbd5d5) | [notebook](data-analysis/015-pandas-numpy-select-where/pandas-and-numpy-select-where.ipynb)
 
 ### Applied Data Analysis and EDA
 Article | Notebook / source code
