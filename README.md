@@ -27,6 +27,7 @@ Article | Notebook / source code
 [Pandas Equivalents of various SQL queries](https://towardsdatascience.com/introduction-to-pandas-equivalents-of-various-sql-queries-448fb57dd9b9) | TBA soon
 [A Practical Introduction to Pandas pivot_table()](https://medium.com/@bindiatwork/a-practical-introduction-to-pandas-pivot-table-function-3e1002dcd4eb) | [notebook](data-analysis/003-pandas-pivot-table/003-pandas-pivot-table.ipynb)
 [Creating conditional columns on Pandas with Numpy select() and where() methods](https://bindichen.medium.com/creating-conditional-columns-on-pandas-with-numpy-select-and-where-methods-8ee6e2dbd5d5) | [notebook](data-analysis/015-pandas-numpy-select-where/pandas-and-numpy-select-where.ipynb)
+[How to do a Custom Sort on Pandas DataFrame](https://bindichen.medium.com/how-to-do-a-custom-sort-on-pandas-dataframe-ac18e7ea5320) | [notebook](data-analysis/017-pandas-custom-sort/pandas-custom-sort.ipynb)
 
 ### Applied Data Analysis and EDA
 Article | Notebook / source code
