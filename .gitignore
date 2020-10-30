@@ -1,3 +1,7 @@
+# Local file and cache
 .DS_store
 
 .ipynb_checkpoints
+
+# IDE
+.idea
