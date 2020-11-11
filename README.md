@@ -30,6 +30,7 @@ Article | Notebook / source code
 [How to do a Custom Sort on Pandas DataFrame](https://bindichen.medium.com/how-to-do-a-custom-sort-on-pandas-dataframe-ac18e7ea5320) | [notebook](data-analysis/017-pandas-custom-sort/pandas-custom-sort.ipynb)
 [Pandas concat() tricks you should know to speed up your data analysis](https://bindichen.medium.com/) | [notebook](data-analysis/016-pandas-concat/pandas-concat.ipynb)
 [Pandas resample() tricks you should know for manipulating time-series data](https://bindichen.medium.com/pandas-resample-tricks-you-should-know-for-manipulating-time-series-data-7e9643a7e7f3) | [notebook](data-analysis/020-pandas-resample/pandas-resample.ipynb)
+[All the Pandas merge() you should know for combining datasets](https://bindichen.medium.com/all-the-pandas-merge-you-should-know-for-combining-datasets-526b9ecaf184) | [notebook](data-analysis/018-pandas-merge/pandas-merge.ipynb)
 
 ### Applied Data Analysis and EDA
 Article | Notebook / source code
