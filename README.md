@@ -32,6 +32,7 @@ Article | Notebook / source code
 [Pandas resample() tricks you should know for manipulating time-series data](https://bindichen.medium.com/pandas-resample-tricks-you-should-know-for-manipulating-time-series-data-7e9643a7e7f3) | [notebook](data-analysis/020-pandas-resample/pandas-resample.ipynb)
 [All the Pandas merge() you should know for combining datasets](https://bindichen.medium.com/all-the-pandas-merge-you-should-know-for-combining-datasets-526b9ecaf184) | [notebook](data-analysis/018-pandas-merge/pandas-merge.ipynb)
 [All the Pandas shift() you should know](https://bindichen.medium.com/all-the-pandas-shift-you-should-know-for-data-analysis-791c1692b5e) | [notebook](data-analysis/021-pandas-shift/pandas-shift.ipynb)
+[All Pandas read_html() you should know for scraping data from HTML tables](https://bindichen.medium.com/all-pandas-read-html-you-should-know-for-scraping-data-from-html-tables-a3cbb5ce8274) | [notebook](data-analysis/024-pandas-read_html/pandas-read_html.ipynb)
 
 ### Applied Data Analysis and EDA
 Article | Notebook / source code
