@@ -33,12 +33,17 @@ Article | Notebook / source code
 [All the Pandas merge() you should know for combining datasets](https://bindichen.medium.com/all-the-pandas-merge-you-should-know-for-combining-datasets-526b9ecaf184) | [notebook](data-analysis/018-pandas-merge/pandas-merge.ipynb)
 [All the Pandas shift() you should know](https://bindichen.medium.com/all-the-pandas-shift-you-should-know-for-data-analysis-791c1692b5e) | [notebook](data-analysis/021-pandas-shift/pandas-shift.ipynb)
 [All Pandas read_html() you should know for scraping data from HTML tables](https://bindichen.medium.com/all-pandas-read-html-you-should-know-for-scraping-data-from-html-tables-a3cbb5ce8274) | [notebook](data-analysis/024-pandas-read_html/pandas-read_html.ipynb)
+[How to convert JSON into a Pandas DataFrame?](https://bindichen.medium.com/how-to-convert-json-into-a-pandas-dataframe-100b2ae1e0d8) | [notebook](data-analysis/027-pandas-convert-json/pandas-convert-json.ipynb)
 
 ### Applied Data Analysis and EDA
 Article | Notebook / source code
 --- | --- 
 [COVID-19 data processing with Pandas DataFrame](https://towardsdatascience.com/covid-19-data-processing-58aaa3663f6) | TBA soon
 
+## Web scraping
+Article | Notebook / source code
+--- | --- 
+[Scraping tables from a JavaScript webpage using Selenium, BeautifulSoup, and Pandas](https://medium.com/analytics-vidhya/scraping-tables-from-a-javascript-webpage-using-selenium-beautifulsoup-and-pandas-cbd305ca75fe) | [notebook](web-scraping/001-selenium-beautifulSoup-and-pandas/main.py)
 
 
 ## Data Visualization
