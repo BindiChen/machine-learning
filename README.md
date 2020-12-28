@@ -63,6 +63,7 @@ Article | Notebook / source code
 [Early Stopping in practice](https://medium.com/@bindiatwork/a-practical-introduction-to-early-stopping-in-machine-learning-550ac88bc8fd) | [notebook](tensorflow2/005-early-stopping/early-stopping.ipynb)
 [Learning Rate schedules in Practice](https://medium.com/@bindiatwork/learning-rate-schedule-in-practice-an-example-with-keras-and-tensorflow-2-0-2f48b2888a0c) | [notebook](tensorflow2/006-learning-rate-schedules/learning-rate-schedules.ipynb)
 [Keras Callbacks in Practice](https://medium.com/@bindiatwork/a-practical-introduction-to-keras-callbacks-in-tensorflow-2-705d0c584966) | [notebook](tensorflow2/007-keras-callback/keras-callbacks.ipynb)
+[Keras Custom Callbacks](https://bindichen.medium.com/building-custom-callbacks-with-keras-and-tensorflow-2-85e1b79915a3) | [notebook](tensorflow2/008-keras-custom-callback/keras-custom-callback.ipynb)
 
 ### Scikit-Learn in practice
 
