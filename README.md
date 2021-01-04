@@ -64,6 +64,7 @@ Article | Notebook / source code
 [Learning Rate schedules in Practice](https://medium.com/@bindiatwork/learning-rate-schedule-in-practice-an-example-with-keras-and-tensorflow-2-0-2f48b2888a0c) | [notebook](tensorflow2/006-learning-rate-schedules/learning-rate-schedules.ipynb)
 [Keras Callbacks in Practice](https://medium.com/@bindiatwork/a-practical-introduction-to-keras-callbacks-in-tensorflow-2-705d0c584966) | [notebook](tensorflow2/007-keras-callback/keras-callbacks.ipynb)
 [Keras Custom Callbacks](https://bindichen.medium.com/building-custom-callbacks-with-keras-and-tensorflow-2-85e1b79915a3) | [notebook](tensorflow2/008-keras-custom-callback/keras-custom-callback.ipynb)
+[7 popular activation functions in Deep Learning](https://bindichen.medium.com/7-popular-activation-functions-you-should-know-in-deep-learning-and-how-to-use-them-with-keras-and-27b4d838dfe6) | [notebook](tensorflow2/010-popular-activation-functions/popular-activation-functions.ipynb)
 
 ### Scikit-Learn in practice
 
