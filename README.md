@@ -65,6 +65,7 @@ Article | Notebook / source code
 [Keras Callbacks in Practice](https://medium.com/@bindiatwork/a-practical-introduction-to-keras-callbacks-in-tensorflow-2-705d0c584966) | [notebook](tensorflow2/007-keras-callback/keras-callbacks.ipynb)
 [Keras Custom Callbacks](https://bindichen.medium.com/building-custom-callbacks-with-keras-and-tensorflow-2-85e1b79915a3) | [notebook](tensorflow2/008-keras-custom-callback/keras-custom-callback.ipynb)
 [7 popular activation functions in Deep Learning](https://bindichen.medium.com/7-popular-activation-functions-you-should-know-in-deep-learning-and-how-to-use-them-with-keras-and-27b4d838dfe6) | [notebook](tensorflow2/010-popular-activation-functions/popular-activation-functions.ipynb)
+[Why ReLU in Deep Learning and the best practice](https://bindichen.medium.com/7-popular-activation-functions-you-should-know-in-deep-learning-and-how-to-use-them-with-keras-and-27b4d838dfe6) | [notebook](tensorflow2/011-relu/relu-and-best-practice.ipynb)
 
 ### Scikit-Learn in practice
 
