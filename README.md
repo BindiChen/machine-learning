@@ -34,6 +34,7 @@ Article | Notebook / source code
 [All the Pandas shift() you should know](https://bindichen.medium.com/all-the-pandas-shift-you-should-know-for-data-analysis-791c1692b5e) | [notebook](data-analysis/021-pandas-shift/pandas-shift.ipynb)
 [All Pandas read_html() you should know for scraping data from HTML tables](https://bindichen.medium.com/all-pandas-read-html-you-should-know-for-scraping-data-from-html-tables-a3cbb5ce8274) | [notebook](data-analysis/024-pandas-read_html/pandas-read_html.ipynb)
 [How to convert JSON into a Pandas DataFrame?](https://bindichen.medium.com/how-to-convert-json-into-a-pandas-dataframe-100b2ae1e0d8) | [notebook](data-analysis/027-pandas-convert-json/pandas-convert-json.ipynb)
+[A Practical Introduction to Pandas Series](https://bindichen.medium.com/a-practical-introduction-to-pandas-series-9915521cdc69) | [notebook](data-analysis/029-pandas-series/intro-to-pands-series.ipynb)
 
 ### Applied Data Analysis and EDA
 Article | Notebook / source code
