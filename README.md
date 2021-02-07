@@ -35,6 +35,7 @@ Article | Notebook / source code
 [All Pandas read_html() you should know for scraping data from HTML tables](https://bindichen.medium.com/all-pandas-read-html-you-should-know-for-scraping-data-from-html-tables-a3cbb5ce8274) | [notebook](data-analysis/024-pandas-read_html/pandas-read_html.ipynb)
 [How to convert JSON into a Pandas DataFrame?](https://bindichen.medium.com/how-to-convert-json-into-a-pandas-dataframe-100b2ae1e0d8) | [notebook](data-analysis/027-pandas-convert-json/pandas-convert-json.ipynb)
 [A Practical Introduction to Pandas Series](https://bindichen.medium.com/a-practical-introduction-to-pandas-series-9915521cdc69) | [notebook](data-analysis/029-pandas-series/intro-to-pands-series.ipynb)
+[Pandas cut() to transform numerical data into categorical data](https://bindichen.medium.com/all-pandas-cut-you-should-know-for-transforming-numerical-data-into-categorical-data-1370cf7f4c4f) | [notebook](data-analysis/026-pandas-cut/pandas-cut.ipynb)
 
 ### Applied Data Analysis and EDA
 Article | Notebook / source code
