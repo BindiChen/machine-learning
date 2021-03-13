@@ -38,7 +38,7 @@ Article | Notebook / source code
 [Pandas cut() to transform numerical data into categorical data](https://bindichen.medium.com/all-pandas-cut-you-should-know-for-transforming-numerical-data-into-categorical-data-1370cf7f4c4f) | [notebook](data-analysis/026-pandas-cut/pandas-cut.ipynb)
 [Pandas json_normalize() for flattening JSON](https://bindichen.medium.com/all-pandas-json-normalize-you-should-know-for-flattening-json-13eae1dfb7dd) | [notebook](data-analysis/028-pandas-json_normalize/pandas-json_normalize.ipynb)
 [Renaming columns in a Pandas DataFrame](https://bindichen.medium.com/renaming-columns-in-a-pandas-dataframe-1d909360ddc6) | [notebook](data-analysis/033-pandas-rename-columns/pandas-rename-columns.ipynb)
-[Pandas groupby() for grouping data and performing operarions](https://bindichen.medium.com/all-pandas-groupby-you-should-know-for-grouping-data-and-performing-operations-2a8ec1327b5) | [notebook](data-analysis/032-pandas-groupby/pandas-groupby.ipynb)
+[Pandas groupby() for grouping data and performing operations](https://bindichen.medium.com/all-pandas-groupby-you-should-know-for-grouping-data-and-performing-operations-2a8ec1327b5) | [notebook](data-analysis/032-pandas-groupby/pandas-groupby.ipynb)
 
 ### Applied Data Analysis and EDA
 Article | Notebook / source code
