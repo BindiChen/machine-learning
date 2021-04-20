@@ -41,7 +41,8 @@ Article | Notebook / source code
 [Pandas groupby() for grouping data and performing operations](https://bindichen.medium.com/all-pandas-groupby-you-should-know-for-grouping-data-and-performing-operations-2a8ec1327b5) | [notebook](data-analysis/032-pandas-groupby/pandas-groupby.ipynb)
 [Pandas loc and iloc for selecting data](https://bindichen.medium.com/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79) | [notebook](data-analysis/030-pandas-loc-and-iloc/pandas-loc-and-iloc.ipynb)
 [Finding and removing duplicate rows in Pandas DataFrame](https://bindichen.medium.com/finding-and-removing-duplicate-rows-in-pandas-dataframe-c6117668631f) | [notebook](data-analysis/034-pandas-find-and-remove-duplicates/pandas-duplicates.ipynb)
-[Converting data to a numeric type in Pandas](https://bindichen.medium.com/converting-data-to-a-numeric-type-in-pandas-db9415caab0b) | [notebook](data-analysis/036-pandas-change-data-to-numeric-type/change-data-to-a-numeric-type.ipynb)
+[10 tricks for Converting data to a numeric type in Pandas](https://bindichen.medium.com/converting-data-to-a-numeric-type-in-pandas-db9415caab0b) | [notebook](data-analysis/036-pandas-change-data-to-numeric-type/change-data-to-a-numeric-type.ipynb)
+[10 tricks for Converting numbers and strings to datetime in Pandas](https://bindichen.medium.com/10-tricks-for-converting-numbers-and-strings-to-datetime-in-pandas-82a4645fc23d) | [notebook](data-analysis/037-pandas-change-data-to-datetime/change-data-to-datetime.ipynb)
 
 ### Applied Data Analysis and EDA
 Article | Notebook / source code
