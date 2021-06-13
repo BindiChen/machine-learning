@@ -1,10 +1,9 @@
 # Machine Learning
 
-## General
-Article | Notebook / source code
---- | --- 
-[Create Virtual Environment using “virtualenv” and add it to Jupyter Notebook](https://towardsdatascience.com/create-virtual-environment-using-virtualenv-and-add-it-to-jupyter-notebook-6e1bf4e03415) | N/A
-[Create Virtual Environment using “conda” and add it to Jupyter Notebook](https://medium.com/analytics-vidhya/create-virtual-environment-using-conda-and-add-it-to-jupyter-notebook-d319a81dfd1) | N/A
+## General Setup
+* [Create Virtual Environment using “virtualenv” and add it to Jupyter Notebook](https://towardsdatascience.com/create-virtual-environment-using-virtualenv-and-add-it-to-jupyter-notebook-6e1bf4e03415)
+* [Create Virtual Environment using “conda” and add it to Jupyter Notebook](https://medium.com/analytics-vidhya/create-virtual-environment-using-conda-and-add-it-to-jupyter-notebook-d319a81dfd1)
+* [7 ways to load external data into Google Colab](https://bindichen.medium.com/7-ways-to-load-external-data-into-google-colab-7ba73e7d5fc7)
 
 
 ## Data Analysis
@@ -44,38 +43,36 @@ Article | Notebook / source code
 [Finding and removing duplicate rows in Pandas DataFrame](https://bindichen.medium.com/finding-and-removing-duplicate-rows-in-pandas-dataframe-c6117668631f) | [notebook](data-analysis/034-pandas-find-and-remove-duplicates/pandas-duplicates.ipynb)
 [10 tricks for Converting data to a numeric type in Pandas](https://bindichen.medium.com/converting-data-to-a-numeric-type-in-pandas-db9415caab0b) | [notebook](data-analysis/036-pandas-change-data-to-numeric-type/change-data-to-a-numeric-type.ipynb)
 [10 tricks for Converting numbers and strings to datetime in Pandas](https://bindichen.medium.com/10-tricks-for-converting-numbers-and-strings-to-datetime-in-pandas-82a4645fc23d) | [notebook](data-analysis/037-pandas-change-data-to-datetime/change-data-to-datetime.ipynb)
+[8 Commonly used Pandas display options you should know](https://bindichen.medium.com/8-commonly-used-pandas-display-options-you-should-know-a832365efa95) | [notebook](data-analysis/035-pandas-display-opts/pandas-display-options.ipynb)
 
 ### Applied Data Analysis and EDA
-Article | Notebook / source code
---- | --- 
-[COVID-19 data processing with Pandas DataFrame](https://towardsdatascience.com/covid-19-data-processing-58aaa3663f6) | TBA soon
+
+* [COVID-19 data processing with Pandas DataFrame](https://towardsdatascience.com/covid-19-data-processing-58aaa3663f6) | TBA soon
 
 ## Web scraping
-Article | Notebook / source code
---- | --- 
-[Scraping tables from a JavaScript webpage using Selenium, BeautifulSoup, and Pandas](https://medium.com/analytics-vidhya/scraping-tables-from-a-javascript-webpage-using-selenium-beautifulsoup-and-pandas-cbd305ca75fe) | [notebook](web-scraping/001-selenium-beautifulSoup-and-pandas/main.py)
+* [Scraping tables from a JavaScript webpage using Selenium, BeautifulSoup, and Pandas](https://medium.com/analytics-vidhya/scraping-tables-from-a-javascript-webpage-using-selenium-beautifulsoup-and-pandas-cbd305ca75fe) | [notebook](web-scraping/001-selenium-beautifulSoup-and-pandas/main.py)
 
 
 ## Data Visualization
-Article | Notebook / source code
---- | --- 
-[Python Interactive Data Visualization with Altair](https://towardsdatascience.com/python-interactive-data-visualization-with-altair-b4c4664308f8) | [Gist](https://gist.github.com/BindiChen/0dea2e7fa189f8ff1397180f3b764cc7#file-altair-interactive-selection-chart-py)
-[Interactive Data Visualization for exploring Coronavirus Spreads](https://towardsdatascience.com/interactive-data-visualization-for-exploring-coronavirus-spreads-f33cabc64043) | [Gist](https://gist.github.com/BindiChen/de39182e050962c0b627d5146e3bce09#file-altair-data-visualization-py)
+Altair
+* [Python Interactive Data Visualization with Altair](https://towardsdatascience.com/python-interactive-data-visualization-with-altair-b4c4664308f8) | [Gist](https://gist.github.com/BindiChen/0dea2e7fa189f8ff1397180f3b764cc7#file-altair-interactive-selection-chart-py)
+* [Interactive Data Visualization for exploring Coronavirus Spreads](https://towardsdatascience.com/interactive-data-visualization-for-exploring-coronavirus-spreads-f33cabc64043) | [Gist](https://gist.github.com/BindiChen/de39182e050962c0b627d5146e3bce09#file-altair-data-visualization-py)
 
+Matplotlib
+* Matplotlib animation in PyCharm and Jupyter Notebook (WIP)
 
 ## TensorFlow in practice
-Article | Notebook / source code
---- | --- 
-[The Google's 7 steps of Machine Learing in Practice](https://towardsdatascience.com/the-googles-7-steps-of-machine-learning-in-practice-a-tensorflow-example-for-structured-data-96ccbb707d77) | [notebook](/tensorflow2/001-googles-7-steps-of-machine-learning-in-practice/001-googles-7-steps-of-machine-learning-in-practice.ipynb)
-[3 ways to create a Machine Learning model with Keras and TensorFlow 2.0](https://towardsdatascience.com/3-ways-to-create-a-machine-learning-model-with-keras-and-tensorflow-2-0-de09323af4d3) | [notebook](tensorflow2/002-3-ways-to-build-machine-learning-model-with-keras/3-ways-to-build-a-machine-learning-model-with-keras.ipynb)
-[Model Regularization in practice](https://towardsdatascience.com/machine-learning-model-regularization-in-practice-an-example-with-keras-and-tensorflow-2-0-52a96746123e) | [notebook](tensorflow2/003-model-regularization/model-regularization.ipynb)
-[Batch Normalization in practice](https://medium.com/@bindiatwork/batch-normalization-in-practice-an-example-with-keras-and-tensorflow-2-0-b1ec28bde96f) | [notebook](tensorflow2/004-batch-norm/batch-normalization.ipynb)
-[Early Stopping in practice](https://medium.com/@bindiatwork/a-practical-introduction-to-early-stopping-in-machine-learning-550ac88bc8fd) | [notebook](tensorflow2/005-early-stopping/early-stopping.ipynb)
-[Learning Rate schedules in Practice](https://medium.com/@bindiatwork/learning-rate-schedule-in-practice-an-example-with-keras-and-tensorflow-2-0-2f48b2888a0c) | [notebook](tensorflow2/006-learning-rate-schedules/learning-rate-schedules.ipynb)
-[Keras Callbacks in Practice](https://medium.com/@bindiatwork/a-practical-introduction-to-keras-callbacks-in-tensorflow-2-705d0c584966) | [notebook](tensorflow2/007-keras-callback/keras-callbacks.ipynb)
-[Keras Custom Callbacks](https://bindichen.medium.com/building-custom-callbacks-with-keras-and-tensorflow-2-85e1b79915a3) | [notebook](tensorflow2/008-keras-custom-callback/keras-custom-callback.ipynb)
-[7 popular activation functions in Deep Learning](https://bindichen.medium.com/7-popular-activation-functions-you-should-know-in-deep-learning-and-how-to-use-them-with-keras-and-27b4d838dfe6) | [notebook](tensorflow2/010-popular-activation-functions/popular-activation-functions.ipynb)
-[Why ReLU in Deep Learning and the best practice](https://bindichen.medium.com/7-popular-activation-functions-you-should-know-in-deep-learning-and-how-to-use-them-with-keras-and-27b4d838dfe6) | [notebook](tensorflow2/011-relu/relu-and-best-practice.ipynb)
+
+* [The Google's 7 steps of Machine Learing in Practice](https://towardsdatascience.com/the-googles-7-steps-of-machine-learning-in-practice-a-tensorflow-example-for-structured-data-96ccbb707d77) | [Notebook](/tensorflow2/001-googles-7-steps-of-machine-learning-in-practice/001-googles-7-steps-of-machine-learning-in-practice.ipynb)
+* [3 ways to create a Machine Learning model with Keras and TensorFlow 2.0](https://towardsdatascience.com/3-ways-to-create-a-machine-learning-model-with-keras-and-tensorflow-2-0-de09323af4d3) | [Notebook](tensorflow2/002-3-ways-to-build-machine-learning-model-with-keras/3-ways-to-build-a-machine-learning-model-with-keras.ipynb)
+* [Model Regularization in practice](https://towardsdatascience.com/machine-learning-model-regularization-in-practice-an-example-with-keras-and-tensorflow-2-0-52a96746123e) | [Notebook](tensorflow2/003-model-regularization/model-regularization.ipynb)
+* [Batch Normalization in practice](https://medium.com/@bindiatwork/batch-normalization-in-practice-an-example-with-keras-and-tensorflow-2-0-b1ec28bde96f) | [Notebook](tensorflow2/004-batch-norm/batch-normalization.ipynb)
+* [Early Stopping in practice](https://medium.com/@bindiatwork/a-practical-introduction-to-early-stopping-in-machine-learning-550ac88bc8fd) | [Notebook](tensorflow2/005-early-stopping/early-stopping.ipynb)
+* [Learning Rate schedules in Practice](https://medium.com/@bindiatwork/learning-rate-schedule-in-practice-an-example-with-keras-and-tensorflow-2-0-2f48b2888a0c) | [Notebook](tensorflow2/006-learning-rate-schedules/learning-rate-schedules.ipynb)
+* [Keras Callbacks in Practice](https://medium.com/@bindiatwork/a-practical-introduction-to-keras-callbacks-in-tensorflow-2-705d0c584966) | [Notebook](tensorflow2/007-keras-callback/keras-callbacks.ipynb)
+* [Keras Custom Callbacks](https://bindichen.medium.com/building-custom-callbacks-with-keras-and-tensorflow-2-85e1b79915a3) | [Notebook](tensorflow2/008-keras-custom-callback/keras-custom-callback.ipynb)
+* [7 popular activation functions in Deep Learning](https://bindichen.medium.com/7-popular-activation-functions-you-should-know-in-deep-learning-and-how-to-use-them-with-keras-and-27b4d838dfe6) | [Notebook](tensorflow2/010-popular-activation-functions/popular-activation-functions.ipynb)
+* [Why ReLU in Deep Learning and the best practice](https://towardsdatascience.com/why-rectified-linear-unit-relu-in-deep-learning-and-the-best-practice-to-use-it-with-tensorflow-e9880933b7ef) | [Notebook](tensorflow2/011-relu/relu-and-best-practice.ipynb)
 
 ### Scikit-Learn in practice
 
