@@ -59,7 +59,7 @@ Altair
 * [Interactive Data Visualization for exploring Coronavirus Spreads](https://towardsdatascience.com/interactive-data-visualization-for-exploring-coronavirus-spreads-f33cabc64043) | [Gist](https://gist.github.com/BindiChen/de39182e050962c0b627d5146e3bce09#file-altair-data-visualization-py)
 
 Matplotlib
-* Matplotlib animation in PyCharm and Jupyter Notebook (WIP)
+* [Matplotlib animation in Jupyter Notebook](https://bindichen.medium.com/matplotlib-animations-in-jupyter-notebook-4422e4f0e389) [Notebook](data-visualization/0001-matplotlib-animation/matplotlib-animation-notebook.ipynb)
 
 ## TensorFlow in practice
 
