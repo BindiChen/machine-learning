@@ -60,6 +60,7 @@ Altair
 
 Matplotlib
 * [Matplotlib animation in Jupyter Notebook](https://bindichen.medium.com/matplotlib-animations-in-jupyter-notebook-4422e4f0e389) | [:orange_book: Notebook](data-visualization/0001-matplotlib-animation/matplotlib-animation-notebook.ipynb)
+* [Matplotlib Linear Regression animation in Jupyter Notebook](https://bindichen.medium.com/matplotlib-linear-regression-animation-in-jupyter-notebook-2435b711bea2) | [:orange_book: Notebook](data-visualization/0002-matplotlib-animation-with-regression/matplotlib-linear-regression-animation.ipynb)
 
 ## TensorFlow in practice
 
