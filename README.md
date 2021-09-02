@@ -26,7 +26,7 @@
 * [A Practical Introduction to Pandas `pivot_table()`](https://medium.com/@bindiatwork/a-practical-introduction-to-pandas-pivot-table-function-3e1002dcd4eb) | [:orange_book: Notebook](data-analysis/003-pandas-pivot-table/003-pandas-pivot-table.ipynb)
 * [Creating conditional columns on Pandas with Numpy `select()` and `where()` methods](https://bindichen.medium.com/creating-conditional-columns-on-pandas-with-numpy-select-and-where-methods-8ee6e2dbd5d5) | [:orange_book: Notebook](data-analysis/015-pandas-numpy-select-where/pandas-and-numpy-select-where.ipynb)
 * [How to do a Custom Sort on Pandas DataFrame](https://bindichen.medium.com/how-to-do-a-custom-sort-on-pandas-dataframe-ac18e7ea5320) | [:orange_book: Notebook](data-analysis/017-pandas-custom-sort/pandas-custom-sort.ipynb)
-* [Pandas `concat()` tricks you should know to speed up your data analysis](https://bindichen.medium.com/) | [:orange_book: Notebook](data-analysis/016-pandas-concat/pandas-concat.ipynb)
+* [Pandas `concat()` tricks you should know to speed up your data analysis](https://towardsdatascience.com/pandas-concat-tricks-you-should-know-to-speed-up-your-data-analysis-cd3d4fdfe6dd) | [:orange_book: Notebook](data-analysis/016-pandas-concat/pandas-concat.ipynb)
 * [Pandas `resample()` tricks you should know for manipulating time-series data](https://bindichen.medium.com/pandas-resample-tricks-you-should-know-for-manipulating-time-series-data-7e9643a7e7f3) | [:orange_book: Notebook](data-analysis/020-pandas-resample/pandas-resample.ipynb)
 * [All the Pandas `merge()` you should know for combining datasets](https://bindichen.medium.com/all-the-pandas-merge-you-should-know-for-combining-datasets-526b9ecaf184) | [:orange_book: Notebook](data-analysis/018-pandas-merge/pandas-merge.ipynb)
 * [All the Pandas `shift()` you should know](https://bindichen.medium.com/all-the-pandas-shift-you-should-know-for-data-analysis-791c1692b5e) | [:orange_book: Notebook](data-analysis/021-pandas-shift/pandas-shift.ipynb)
@@ -44,6 +44,7 @@
 * [10 tricks for Converting data to a numeric type in Pandas](https://bindichen.medium.com/converting-data-to-a-numeric-type-in-pandas-db9415caab0b) | [:orange_book: Notebook](data-analysis/036-pandas-change-data-to-numeric-type/change-data-to-a-numeric-type.ipynb)
 * [10 tricks for Converting numbers and strings to datetime in Pandas](https://bindichen.medium.com/10-tricks-for-converting-numbers-and-strings-to-datetime-in-pandas-82a4645fc23d) | [:orange_book: Notebook](data-analysis/037-pandas-change-data-to-datetime/change-data-to-datetime.ipynb)
 * [8 Commonly used Pandas display options you should know](https://bindichen.medium.com/8-commonly-used-pandas-display-options-you-should-know-a832365efa95) | [:orange_book: Notebook](data-analysis/035-pandas-display-opts/pandas-display-options.ipynb)
+* [9 Pandas `value_counts()` tricks](https://bindichen.medium.com/9-pandas-value-counts-tricks-to-improve-your-data-analysis-7980a2b46536) | [:orange_book: Notebook](data-analysis/046-pandas-value_counts/pandas-value_counts.ipynb)
 
 ### Applied Data Analysis and EDA
 
