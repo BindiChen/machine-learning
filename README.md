@@ -44,7 +44,8 @@
 * [10 tricks for Converting data to a numeric type in Pandas](https://bindichen.medium.com/converting-data-to-a-numeric-type-in-pandas-db9415caab0b) | [:orange_book: Notebook](data-analysis/036-pandas-change-data-to-numeric-type/change-data-to-a-numeric-type.ipynb)
 * [10 tricks for Converting numbers and strings to datetime in Pandas](https://bindichen.medium.com/10-tricks-for-converting-numbers-and-strings-to-datetime-in-pandas-82a4645fc23d) | [:orange_book: Notebook](data-analysis/037-pandas-change-data-to-datetime/change-data-to-datetime.ipynb)
 * [8 Commonly used Pandas display options you should know](https://bindichen.medium.com/8-commonly-used-pandas-display-options-you-should-know-a832365efa95) | [:orange_book: Notebook](data-analysis/035-pandas-display-opts/pandas-display-options.ipynb)
-* [9 Pandas `value_counts()` tricks](https://bindichen.medium.com/9-pandas-value-counts-tricks-to-improve-your-data-analysis-7980a2b46536) | [:orange_book: Notebook](data-analysis/046-pandas-value_counts/pandas-value_counts.ipynb)
+* [9 Pandas `value_counts()` tricks](https://towardsdatascience.com/9-pandas-value-counts-tricks-to-improve-your-data-analysis-7980a2b46536) | [:orange_book: Notebook](data-analysis/046-pandas-value_counts/pandas-value_counts.ipynb)
+* [Getting more value from the Pandas `count()`](https://bindichen.medium.com/getting-more-value-from-the-pandas-count-3e45a62c7077) | [:orange_book: Notebook](data-analysis/043-pandas-count/pandas-count.ipynb)
 
 ### Applied Data Analysis and EDA
 
