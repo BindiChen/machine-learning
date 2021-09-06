@@ -79,4 +79,7 @@ Matplotlib
 
 ### Scikit-Learn in practice
 
+* [A Practical Introduction to Grid Search, Random Search, and Bayes Search](https://bindichen.medium.com/a-practical-introduction-to-grid-search-random-search-and-bayes-search-d5580b1d941d) | [:orange_book: Notebook](traditional-machine-learning/005-grid-search-vs-random-search-vs-bayes-search/gridsearch-vs-randomsearch-vs-bayessearch.ipynb)
+
+
 ### PyTorch in practice
