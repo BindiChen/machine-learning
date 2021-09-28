@@ -80,6 +80,6 @@ Matplotlib
 ### Scikit-Learn in practice
 
 * [A Practical Introduction to Grid Search, Random Search, and Bayes Search](https://bindichen.medium.com/a-practical-introduction-to-grid-search-random-search-and-bayes-search-d5580b1d941d) | [:orange_book: Notebook](traditional-machine-learning/005-grid-search-vs-random-search-vs-bayes-search/gridsearch-vs-randomsearch-vs-bayessearch.ipynb)
-
+* [A Practical Introduction to 9 Regression Algorithms](https://bindichen.medium.com/a-practical-introduction-to-9-regression-algorithms-389057f86eb9) | [:orange_book: Notebook](traditional-machine-learning/001-regression-algorithms/regression-algorithms.ipynb)
 
 ### PyTorch in practice
