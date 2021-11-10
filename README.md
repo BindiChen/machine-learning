@@ -46,6 +46,7 @@
 * [8 Commonly used Pandas display options you should know](https://bindichen.medium.com/8-commonly-used-pandas-display-options-you-should-know-a832365efa95) | [:orange_book: Notebook](data-analysis/035-pandas-display-opts/pandas-display-options.ipynb)
 * [9 Pandas `value_counts()` tricks](https://towardsdatascience.com/9-pandas-value-counts-tricks-to-improve-your-data-analysis-7980a2b46536) | [:orange_book: Notebook](data-analysis/046-pandas-value_counts/pandas-value_counts.ipynb)
 * [Getting more value from the Pandas `count()`](https://bindichen.medium.com/getting-more-value-from-the-pandas-count-3e45a62c7077) | [:orange_book: Notebook](data-analysis/043-pandas-count/pandas-count.ipynb)
+* [11 Tricks to Master `sort_values()` in Pandas](https://bindichen.medium.com/11-tricks-to-master-values-sorting-in-pandas-7f2cfbf19730) | [:orange_book: Notebook](data-analysis/040-pandas-sort_values/pandas-sort_values.ipynb)
 
 ### Applied Data Analysis and EDA
 
@@ -81,6 +82,6 @@ Matplotlib
 
 * [A Practical Introduction to Grid Search, Random Search, and Bayes Search](https://bindichen.medium.com/a-practical-introduction-to-grid-search-random-search-and-bayes-search-d5580b1d941d) | [:orange_book: Notebook](traditional-machine-learning/005-grid-search-vs-random-search-vs-bayes-search/gridsearch-vs-randomsearch-vs-bayessearch.ipynb)
 * [A Practical Introduction to 9 Regression Algorithms](https://bindichen.medium.com/a-practical-introduction-to-9-regression-algorithms-389057f86eb9) | [:orange_book: Notebook](traditional-machine-learning/001-regression-algorithms/regression-algorithms.ipynb)
-* [Train-Test split and Cross-Validation you should know in Machine Learning](https://bindichen.medium.com/all-the-train-test-split-and-cross-validation-you-should-know-in-machine-learning-7155457ce680) | [:orange_book: Notebook](traditional-machine-learning/006-train-test-split-and-cross-validation/train-test-and-cross-validation.ipynb)
+* Train-Test split and Cross-Validation you should know in Machine Learning (TBA) | [:orange_book: Notebook](traditional-machine-learning/006-train-test-split-and-cross-validation/train-test-and-cross-validation.ipynb)
 
 ### PyTorch in practice
