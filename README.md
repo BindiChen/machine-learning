@@ -47,6 +47,7 @@
 * [9 Pandas `value_counts()` tricks](https://towardsdatascience.com/9-pandas-value-counts-tricks-to-improve-your-data-analysis-7980a2b46536) | [:orange_book: Notebook](data-analysis/046-pandas-value_counts/pandas-value_counts.ipynb)
 * [Getting more value from the Pandas `count()`](https://bindichen.medium.com/getting-more-value-from-the-pandas-count-3e45a62c7077) | [:orange_book: Notebook](data-analysis/043-pandas-count/pandas-count.ipynb)
 * [11 Tricks to Master `sort_values()` in Pandas](https://bindichen.medium.com/11-tricks-to-master-values-sorting-in-pandas-7f2cfbf19730) | [:orange_book: Notebook](data-analysis/040-pandas-sort_values/pandas-sort_values.ipynb)
+* [Summarizing data with Pandas `crosstab()`](https://bindichen.medium.com/summarizing-data-with-pandas-crosstab-efc8b9abecf) | [:orange_book: Notebook](data-analysis/045-pandas-crosstab/pandas-crosstab.ipynb)
 
 ### Applied Data Analysis and EDA
 
