@@ -45,7 +45,8 @@
     * [Creating conditional columns with Numpy `select()` and `where()` methods](https://bindichen.medium.com/creating-conditional-columns-on-pandas-with-numpy-select-and-where-methods-8ee6e2dbd5d5) | [:orange_book: Notebook](data-analysis/015-pandas-numpy-select-where/pandas-and-numpy-select-where.ipynb)
     * [Accessing data in a MultiIndex DataFrame](https://bindichen.medium.com/accessing-data-in-a-multiindex-dataframe-in-pandas-569e8767201d) | [:orange_book: Notebook](data-analysis/031-pandas-multiIndex/multiindex-selection.ipynb)
 * Reshaping
-    * `melt()` (work in progress TBA)
+    * [Reshaping a DataFrame from wide to long format using `melt()`](https://bindichen.medium.com/reshaping-a-dataframe-using-pandas-melt-83a151ce1907) | [:orange_book: Notebook](data-analysis/048-pandas-melt/pandas-melt.ipynb)
+    * `pivot()` long to wide (work in progress)
     * `stack()` and `unstack()` (work in progress TBA)
 * Grouping and Summarizing
     * [Pandas `groupby()` for grouping data and performing operations](https://bindichen.medium.com/all-pandas-groupby-you-should-know-for-grouping-data-and-performing-operations-2a8ec1327b5) | [:orange_book: Notebook](data-analysis/032-pandas-groupby/pandas-groupby.ipynb)
