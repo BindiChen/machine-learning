@@ -39,6 +39,7 @@
 * Combining data
     * [All the Pandas `merge()` for combining datasets](https://bindichen.medium.com/all-the-pandas-merge-you-should-know-for-combining-datasets-526b9ecaf184) | [:orange_book: Notebook](data-analysis/018-pandas-merge/pandas-merge.ipynb)
     * [Pandas `concat()` tricks to speed up your data analysis](https://towardsdatascience.com/pandas-concat-tricks-you-should-know-to-speed-up-your-data-analysis-cd3d4fdfe6dd) | [:orange_book: Notebook](data-analysis/016-pandas-concat/pandas-concat.ipynb)
+    * [5 Tricks to master Pandas `append()`](https://bindichen.medium.com/5-tricks-to-master-pandas-append-ede4318cc700) | [:orange_book: Notebook](data-analysis/055-pandas-append/pandas-append.ipynb)
 * Selecting and Querying
     * [Pandas `loc` and `iloc` for selecting data](https://bindichen.medium.com/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79) | [:orange_book: Notebook](data-analysis/030-pandas-loc-and-iloc/pandas-loc-and-iloc.ipynb)
     * [Pandas Equivalents of various SQL queries](https://towardsdatascience.com/introduction-to-pandas-equivalents-of-various-sql-queries-448fb57dd9b9) | TBA soon
