@@ -36,6 +36,7 @@
     * [Difference between `apply()` and `transform()` in Pandas](https://medium.com/@bindiatwork/difference-between-apply-and-transform-in-pandas-242e5cf32705) | [:orange_book: Notebook](data-analysis/014-pandas-apply-vs-transform/pandas-apply-vs-transform.ipynb)
     * [Introduction to Pandas `apply()`, `applymap()`, and `map()`](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff) | TBA soon
     * [All the Pandas `shift()` you should know](https://bindichen.medium.com/all-the-pandas-shift-you-should-know-for-data-analysis-791c1692b5e) | [:orange_book: Notebook](data-analysis/021-pandas-shift/pandas-shift.ipynb)
+    * [Delete rows/columns from a DataFrame using `drop()`](https://bindichen.medium.com/delete-rows-and-columns-from-a-dataframe-using-pandas-drop-d2533cf7b4bd) | [:orange_book: Notebook](data-analysis/063-pandas-drop/pandas-drop.ipynb)
 * Combining data
     * [All the Pandas `merge()` for combining datasets](https://bindichen.medium.com/all-the-pandas-merge-you-should-know-for-combining-datasets-526b9ecaf184) | [:orange_book: Notebook](data-analysis/018-pandas-merge/pandas-merge.ipynb)
     * [Pandas `concat()` tricks to speed up your data analysis](https://towardsdatascience.com/pandas-concat-tricks-you-should-know-to-speed-up-your-data-analysis-cd3d4fdfe6dd) | [:orange_book: Notebook](data-analysis/016-pandas-concat/pandas-concat.ipynb)
