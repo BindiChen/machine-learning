@@ -74,6 +74,7 @@
 ## Data Visualization
 
 * [Dual-axis combo chart in Python - Matplotlib, Seaborn, and Pandas `plot()`](https://bindichen.medium.com/creating-a-dual-axis-combo-chart-in-python-52624b187834) | [:orange_book: Notebook](data-visualization/0006-dual-axis-combo-chart/dual-axis-combo-chart.ipynb)
+* [Adding 3rd Y-axis to combo chart in Python - Matplotlib, Seaborn, and Pandas `plot()`](https://bindichen.medium.com/adding-a-third-y-axis-to-python-combo-chart-39f60fb66708) | [:orange_book: Notebook](data-visualization/0010-multiple-y-axis/multiple-y-axis-combo-chart.ipynb)
 
 Altair
 * [Python Interactive Data Visualization with Altair](https://towardsdatascience.com/python-interactive-data-visualization-with-altair-b4c4664308f8) | [Gist](https://gist.github.com/BindiChen/0dea2e7fa189f8ff1397180f3b764cc7#file-altair-interactive-selection-chart-py)
