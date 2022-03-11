@@ -49,7 +49,7 @@
 * Reshaping
     * [Reshaping a DataFrame from wide to long format using `melt()`](https://bindichen.medium.com/reshaping-a-dataframe-using-pandas-melt-83a151ce1907) | [:orange_book: Notebook](data-analysis/048-pandas-melt/pandas-melt.ipynb)
     * `pivot()` long to wide (work in progress)
-    * `stack()` and `unstack()` (work in progress TBA)
+    * [Reshaping a DataFrame/Series with `stack()` and `unstack()`](https://bindichen.medium.com/reshaping-a-dataframe-with-pandas-stack-and-unstack-925dc9ce1289) | [:orange_book: Notebook](data-analysis/067-pandas-stack/pandas-stack-unstack.ipynb)
 * Grouping and Summarizing
     * [Pandas `groupby()` for grouping data and performing operations](https://bindichen.medium.com/all-pandas-groupby-you-should-know-for-grouping-data-and-performing-operations-2a8ec1327b5) | [:orange_book: Notebook](data-analysis/032-pandas-groupby/pandas-groupby.ipynb)
     * [A Practical Introduction to Pandas `pivot_table()`](https://medium.com/@bindiatwork/a-practical-introduction-to-pandas-pivot-table-function-3e1002dcd4eb) | [:orange_book: Notebook](data-analysis/003-pandas-pivot-table/003-pandas-pivot-table.ipynb)
