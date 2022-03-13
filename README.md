@@ -5,8 +5,8 @@
 # Content
 1. [General Setup](#general-setup)
 2. [Data Analysis](#data-analysis)
-  * [Pandas](#pandas)
-  * [Applied Data Analysis and EDA](#applied-data-analysis-and-eda)
+   * [Pandas](#pandas)
+   * [Applied Data Analysis and EDA](#applied-data-analysis-and-eda)
 
 ## General Setup
 
@@ -18,33 +18,14 @@
 
 ## Data Analysis
 
-### Pandas
-<table>
-  <tr>
-    <th></th>
-    <th>Article</th>
-    <th>Keywords</th>
-    <th>Source Code</th>
-  </tr>
-  <tr>
-    <td rowspan="3">
-      Reading & Writing data
-    </td>
-    <td>[4 tricks to parse date columns with Pandas `read_csv()`](https://towardsdatascience.com/4-tricks-you-should-know-to-parse-date-columns-with-pandas-read-csv-27355bb2ad0e)</td>
-    <td><code>read_csv</code> <code>date</code></td>
-    <td>[![View on Github](https://img.shields.io/badge/Github-Notebook-orange)](data-analysis/012-parse-date-with-read_csv/parse-date-column-with-read_csv.ipynb)</td>
-  </tr>
-  <tr>
-    <td>[4 tricks to parse date columns with Pandas `read_csv()`](https://towardsdatascience.com/4-tricks-you-should-know-to-parse-date-columns-with-pandas-read-csv-27355bb2ad0e)</td>
-    <td><code>read_csv</code> <code>date</code></td>
-    <td>[![View on Github](https://img.shields.io/badge/Github-Notebook-orange)](data-analysis/012-parse-date-with-read_csv/parse-date-column-with-read_csv.ipynb)</td>
-  </tr>
-  <tr>
-    <td>[Pandas `read_csv()` tricks you should know](https://medium.com/@bindiatwork/all-the-pandas-read-csv-you-should-know-to-speed-up-your-data-analysis-1e16fe1039f3)</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+## Pandas
+
+#### Reading & Writing data
+
+| <div style="width:320px">Article</div> | Keywords     | Source Code  |
+| ------------- |-------------| :-----:|
+|[4 tricks to parse date columns with Pandas `read_csv()`](https://towardsdatascience.com/4-tricks-you-should-know-to-parse-date-columns-with-pandas-read-csv-27355bb2ad0e)| `read_csv` |[![View on Github](https://img.shields.io/badge/Github-Notebook-orange)](data-analysis/012-parse-date-with-read_csv/parse-date-column-with-read_csv.ipynb)|
+|[Pandas `read_csv()` tricks you should know](https://medium.com/@bindiatwork/all-the-pandas-read-csv-you-should-know-to-speed-up-your-data-analysis-1e16fe1039f3)| `read_csv` |[![View on Github](https://img.shields.io/badge/Github-Notebook-orange)](data-analysis/012-parse-date-with-read_csv/parse-date-column-with-read_csv.ipynb)|
 
 
 
