@@ -1,6 +1,16 @@
+[![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://bindichen.medium.com/) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/BindiChen/machine-learning)
+
 # Machine Learning
 
+# Content
+1. [General Setup](#general-setup)
+2. [Data Analysis](#data-analysis)
+  * [Pandas](#pandas)
+  * [Applied Data Analysis and EDA](#applied-data-analysis-and-eda)
+
 ## General Setup
+
+
 * [Create Virtual Environment using “virtualenv” and add it to Jupyter Notebook](https://towardsdatascience.com/create-virtual-environment-using-virtualenv-and-add-it-to-jupyter-notebook-6e1bf4e03415)
 * [Create Virtual Environment using “conda” and add it to Jupyter Notebook](https://medium.com/analytics-vidhya/create-virtual-environment-using-conda-and-add-it-to-jupyter-notebook-d319a81dfd1)
 * [7 ways to load external data into Google Colab](https://bindichen.medium.com/7-ways-to-load-external-data-into-google-colab-7ba73e7d5fc7)
@@ -9,6 +19,34 @@
 ## Data Analysis
 
 ### Pandas
+<table>
+  <tr>
+    <th></th>
+    <th>Article</th>
+    <th>Keywords</th>
+    <th>Source Code</th>
+  </tr>
+  <tr>
+    <td rowspan="3">
+      Reading & Writing data
+    </td>
+    <td>[4 tricks to parse date columns with Pandas `read_csv()`](https://towardsdatascience.com/4-tricks-you-should-know-to-parse-date-columns-with-pandas-read-csv-27355bb2ad0e)</td>
+    <td><code>read_csv</code> <code>date</code></td>
+    <td>[![View on Github](https://img.shields.io/badge/Github-Notebook-orange)](data-analysis/012-parse-date-with-read_csv/parse-date-column-with-read_csv.ipynb)</td>
+  </tr>
+  <tr>
+    <td>[4 tricks to parse date columns with Pandas `read_csv()`](https://towardsdatascience.com/4-tricks-you-should-know-to-parse-date-columns-with-pandas-read-csv-27355bb2ad0e)</td>
+    <td><code>read_csv</code> <code>date</code></td>
+    <td>[![View on Github](https://img.shields.io/badge/Github-Notebook-orange)](data-analysis/012-parse-date-with-read_csv/parse-date-column-with-read_csv.ipynb)</td>
+  </tr>
+  <tr>
+    <td>[Pandas `read_csv()` tricks you should know](https://medium.com/@bindiatwork/all-the-pandas-read-csv-you-should-know-to-speed-up-your-data-analysis-1e16fe1039f3)</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
 
 * Reading & Writing data
     * [4 tricks to parse date columns with Pandas `read_csv()`](https://towardsdatascience.com/4-tricks-you-should-know-to-parse-date-columns-with-pandas-read-csv-27355bb2ad0e) | [:orange_book: Notebook](data-analysis/012-parse-date-with-read_csv/parse-date-column-with-read_csv.ipynb)
@@ -85,7 +123,7 @@ Matplotlib
 * [Matplotlib animation in Jupyter Notebook](https://bindichen.medium.com/matplotlib-animations-in-jupyter-notebook-4422e4f0e389) | [:orange_book: Notebook](data-visualization/0001-matplotlib-animation/matplotlib-animation-notebook.ipynb)
 * [Matplotlib Linear Regression animation in Jupyter Notebook](https://bindichen.medium.com/matplotlib-linear-regression-animation-in-jupyter-notebook-2435b711bea2) | [:orange_book: Notebook](data-visualization/0002-matplotlib-animation-with-regression/matplotlib-linear-regression-animation.ipynb)
 
-## TensorFlow in practice
+## TensorFlow
 
 * [The Google's 7 steps of Machine Learing in Practice](https://towardsdatascience.com/the-googles-7-steps-of-machine-learning-in-practice-a-tensorflow-example-for-structured-data-96ccbb707d77) | [Notebook](/tensorflow2/001-googles-7-steps-of-machine-learning-in-practice/001-googles-7-steps-of-machine-learning-in-practice.ipynb)
 * [3 ways to create a Machine Learning model with Keras and TensorFlow 2.0](https://towardsdatascience.com/3-ways-to-create-a-machine-learning-model-with-keras-and-tensorflow-2-0-de09323af4d3) | [Notebook](tensorflow2/002-3-ways-to-build-machine-learning-model-with-keras/3-ways-to-build-a-machine-learning-model-with-keras.ipynb)
@@ -98,10 +136,10 @@ Matplotlib
 * [7 popular activation functions in Deep Learning](https://bindichen.medium.com/7-popular-activation-functions-you-should-know-in-deep-learning-and-how-to-use-them-with-keras-and-27b4d838dfe6) | [Notebook](tensorflow2/010-popular-activation-functions/popular-activation-functions.ipynb)
 * [Why ReLU in Deep Learning and the best practice](https://towardsdatascience.com/why-rectified-linear-unit-relu-in-deep-learning-and-the-best-practice-to-use-it-with-tensorflow-e9880933b7ef) | [Notebook](tensorflow2/011-relu/relu-and-best-practice.ipynb)
 
-## Scikit-Learn in practice
+## Scikit-Learn
 
 * [A Practical Introduction to Grid Search, Random Search, and Bayes Search](https://bindichen.medium.com/a-practical-introduction-to-grid-search-random-search-and-bayes-search-d5580b1d941d) | [:orange_book: Notebook](traditional-machine-learning/005-grid-search-vs-random-search-vs-bayes-search/gridsearch-vs-randomsearch-vs-bayessearch.ipynb)
 * [A Practical Introduction to 9 Regression Algorithms](https://bindichen.medium.com/a-practical-introduction-to-9-regression-algorithms-389057f86eb9) | [:orange_book: Notebook](traditional-machine-learning/001-regression-algorithms/regression-algorithms.ipynb)
 * Train-Test split and Cross-Validation you should know in Machine Learning (TBA) | [:orange_book: Notebook](traditional-machine-learning/006-train-test-split-and-cross-validation/train-test-and-cross-validation.ipynb)
 
-### PyTorch in practice
+### PyTorch
