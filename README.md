@@ -3,16 +3,16 @@
 # Machine Learning
 Practical Machine Learning topics for articles in my [Medium blog](https://bindichen.medium.com/) 
 
-### Content
+#### Content
 1. [General Setup](#general-setup)
-2. [Data Analysis](#data-analysis)
+1. [Data Analysis](#data-analysis)
    * [Pandas](#pandas)
    * [Applied Data Analysis and EDA](#applied-data-analysis-and-eda)
-3. [Web scraping](#web-scraping)
-3. [Data Visualization](#data-visualization)
-4. [TensorFlow](#tensorflow)
-5. [Scikit-Learn](#scikit-learn)
-6. [PyTorch](#pytorch)
+1. [Web scraping](#web-scraping)
+1. [Data Visualization](#data-visualization)
+1. [TensorFlow](#tensorflow)
+1. [PyTorch](#pytorch)
+1. [Scikit-Learn](#scikit-learn-and-general-machine-learning)
 
 ## General Setup
 * [Create Virtual Environment using “virtualenv” and add it to Jupyter Notebook](https://towardsdatascience.com/create-virtual-environment-using-virtualenv-and-add-it-to-jupyter-notebook-6e1bf4e03415)
@@ -112,12 +112,13 @@ Matplotlib
 * [7 popular activation functions in Deep Learning](https://bindichen.medium.com/7-popular-activation-functions-you-should-know-in-deep-learning-and-how-to-use-them-with-keras-and-27b4d838dfe6) | [![View on Github](https://img.shields.io/badge/Github-Notebook-orange?logo=Github)](tensorflow2/010-popular-activation-functions/popular-activation-functions.ipynb)
 * [Why ReLU in Deep Learning and the best practice](https://towardsdatascience.com/why-rectified-linear-unit-relu-in-deep-learning-and-the-best-practice-to-use-it-with-tensorflow-e9880933b7ef) | [![View on Github](https://img.shields.io/badge/Github-Notebook-orange?logo=Github)](tensorflow2/011-relu/relu-and-best-practice.ipynb)
 
-## Scikit-Learn
+### PyTorch
+
+TBA
+
+## Scikit-Learn and General Machine Learning
 
 * [A Practical Introduction to Grid Search, Random Search, and Bayes Search](https://bindichen.medium.com/a-practical-introduction-to-grid-search-random-search-and-bayes-search-d5580b1d941d) | [![View on Github](https://img.shields.io/badge/Github-Notebook-orange?logo=Github)](traditional-machine-learning/005-grid-search-vs-random-search-vs-bayes-search/gridsearch-vs-randomsearch-vs-bayessearch.ipynb)
 * [A Practical Introduction to 9 Regression Algorithms](https://bindichen.medium.com/a-practical-introduction-to-9-regression-algorithms-389057f86eb9) | [![View on Github](https://img.shields.io/badge/Github-Notebook-orange?logo=Github)](traditional-machine-learning/001-regression-algorithms/regression-algorithms.ipynb)
 * Train-Test split and Cross-Validation you should know in Machine Learning (TBA) | [![View on Github](https://img.shields.io/badge/Github-Notebook-orange?logo=Github)](traditional-machine-learning/006-train-test-split-and-cross-validation/train-test-and-cross-validation.ipynb)
 
-### PyTorch
-
-TBA
