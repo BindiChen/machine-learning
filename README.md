@@ -5,19 +5,23 @@
 # Content
 1. [General Setup](#general-setup)
 2. [Programming]()
-   * Python & R
+   * Python
    * Linux, Terminal & Git
 3. [Data Analysis](#data-analysis)
    * [Pandas](#pandas)
    * Numpy 
-   * [Applied Data Analysis and EDA](#applied-data-analysis-and-eda)
+   * SciPy
 4. Data Visualization
-5. Traditional Machine Learning (Scikit-Learn etc.)
+   * Matplotlib
+   * Seaborn
+5. Machine Learning (Scikit-Learn etc.)
 6. Deep Learning
    * TensorFlow
    * PyTorch
    * Others
 7. MLOps
+8. [Applied ML, Data Analysis and EDA](#applied-data-analysis-and-eda)
+
 
 ## General Setup
 
@@ -34,7 +38,7 @@
 #### Pandas - Reading & Writing data
 
 | Article | Keywords     | Source Code  |
-| ------------- |-------------| :-----:|
+| ------------- |-------------| -----|
 |[4 tricks to parse date columns with Pandas `read_csv()`](https://towardsdatascience.com/4-tricks-you-should-know-to-parse-date-columns-with-pandas-read-csv-27355bb2ad0e)| `read_csv` |[![View on Github](https://img.shields.io/badge/Github-Notebook-orange?logo=Github)](data-analysis/012-parse-date-with-read_csv/parse-date-column-with-read_csv.ipynb) [![View on Github](https://img.shields.io/badge/Google%20Colab-Open-brightgreen?logo=google-colab)](data-analysis/012-parse-date-with-read_csv/parse-date-column-with-read_csv.ipynb)|
 |[Pandas `read_csv()` tricks you should know](https://medium.com/@bindiatwork/all-the-pandas-read-csv-you-should-know-to-speed-up-your-data-analysis-1e16fe1039f3)| `read_csv` |[![View on Github](https://img.shields.io/badge/Github-Notebook-orange?logo=Github)](data-analysis/012-parse-date-with-read_csv/parse-date-column-with-read_csv.ipynb) [![View on Github](https://img.shields.io/badge/Google%20Colab-Open-brightgreen?logo=google-colab)](data-analysis/012-parse-date-with-read_csv/parse-date-column-with-read_csv.ipynb)|
 
