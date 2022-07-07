@@ -63,7 +63,7 @@ Practical Machine Learning topics for articles in my [Medium blog](https://bindi
     * [Accessing data in a MultiIndex DataFrame](https://bindichen.medium.com/accessing-data-in-a-multiindex-dataframe-in-pandas-569e8767201d) | [![View on Github](https://img.shields.io/badge/Github-Notebook-orange?logo=Github)](data-analysis/031-pandas-multiIndex/multiindex-selection.ipynb)
 * Reshaping
     * [Reshaping a DataFrame from wide to long format using `melt()`](https://bindichen.medium.com/reshaping-a-dataframe-using-pandas-melt-83a151ce1907) | [![View on Github](https://img.shields.io/badge/Github-Notebook-orange?logo=Github)](data-analysis/048-pandas-melt/pandas-melt.ipynb)
-    * `pivot()` long to wide (work in progress)
+    * [Reshaping a DataFrame from long to wide format using `pivot()`](https://bindichen.medium.com/reshaping-a-dataframe-from-long-to-wide-format-using-pivot-b099930b30ae) | [![View on Github](https://img.shields.io/badge/Github-Notebook-orange?logo=Github)](data-analysis/049-pandas-pivot/pivot.ipynb)
     * [Reshaping a DataFrame/Series with `stack()` and `unstack()`](https://bindichen.medium.com/reshaping-a-dataframe-with-pandas-stack-and-unstack-925dc9ce1289) | [![View on Github](https://img.shields.io/badge/Github-Notebook-orange?logo=Github)](data-analysis/067-pandas-stack/pandas-stack-unstack.ipynb)
 * Grouping and Summarizing
     * [Pandas `groupby()` for grouping data and performing operations](https://bindichen.medium.com/all-pandas-groupby-you-should-know-for-grouping-data-and-performing-operations-2a8ec1327b5) | [![View on Github](https://img.shields.io/badge/Github-Notebook-orange?logo=Github)](data-analysis/032-pandas-groupby/pandas-groupby.ipynb)
